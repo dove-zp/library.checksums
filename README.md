@@ -1,7 +1,7 @@
 # Library 
 ## CRCs
 
-A collection of CRC algorithms. The goal is to create a small and portable library for common crcs without heavily focusing on additional programming weight. The library is a small sub library from my personal hash library.
+A collection of CRC algorithms. The goal is to create a small and portable library for common crcs without heavily focusing on additional programming weight.
 
 ## Example
 
