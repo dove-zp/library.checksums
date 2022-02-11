@@ -6,17 +6,17 @@ A collection of CRC algorithms. The goal is to create a small and portable libra
 ## Demos
 
 generated assembly output for CRC32::ROM:
-<img src="./github/media/images/crc32__.png"/>
+![](.github/media/images/crc32__.png")
 
 generated assembly output for CRC32::ROM::META outer recursive function:
-<img src="./github/media/images/crc32__meta_out.png"/>
+![](.github/media/images/crc32__meta_out.png)
 
 generated assembly output for CRC32::ROM::META inner recursion:
-<img src="./github/media/images/crc32__meta_in.png"/>
+![](.github/media/images/crc32__meta_in.png")
 
 ## Development
 
-* [crc](https://github.com/dove-zp/library.crcs/tree/crcs)
+* [crcs](https://github.com/dove-zp/library.crcs/tree/crcs)
 
 ## License
 
