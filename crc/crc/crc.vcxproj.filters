@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="tables">
+      <UniqueIdentifier>{8a09857c-9912-4b47-b50f-e89d79bb22df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="crc8">
+      <UniqueIdentifier>{4d5cbae8-0f1e-48b5-86f8-fbafe3e476a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="crc16">
+      <UniqueIdentifier>{d4ab1d7a-4d44-43f4-bc0c-81353cd893e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="crc32">
+      <UniqueIdentifier>{4acbb052-24c6-4e3b-96c0-10759cd68540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="crc64">
+      <UniqueIdentifier>{c0179489-df20-4d16-bae6-64302aadaab0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tables.h">
+      <Filter>tables</Filter>
+    </ClInclude>
+    <ClInclude Include="crc8.h">
+      <Filter>crc8</Filter>
+    </ClInclude>
+    <ClInclude Include="crc16.h">
+      <Filter>crc16</Filter>
+    </ClInclude>
+    <ClInclude Include="crc32.h">
+      <Filter>crc32</Filter>
+    </ClInclude>
+    <ClInclude Include="crc64.h">
+      <Filter>crc64</Filter>
+    </ClInclude>
+    <ClInclude Include="crc.h" />
+  </ItemGroup>
+</Project>
