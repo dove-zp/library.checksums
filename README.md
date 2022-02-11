@@ -14,9 +14,9 @@ generated assembly output for CRC32::ROM::META outer recursive function:
 generated assembly output for CRC32::ROM::META inner recursion:
 ![](.github/media/images/crc32__meta_in.png")
 
-## Development
+## Branches
 
-* [crcs](https://github.com/dove-zp/library.crcs/tree/crcs)
+* [development](https://github.com/dove-zp/library.crcs/tree/development)
 
 ## License
 
