@@ -3,17 +3,17 @@
 
 A collection of CRC algorithms. The goal is to create a small and portable library for common crcs without heavily focusing on additional programming weight.
 
-## Demos
+## Low-Level Overview
 
-generated assembly output for CRC32::ROM:
+Generated assembly output for CRC32::ROM:
 
 ![](.github/media/images/crc32__.png)
 
-generated assembly output for CRC32::ROM::META outer recursive function:
+Generated assembly output for CRC32::ROM::META outer recursive function:
 
 ![](.github/media/images/crc32__meta_out.png)
 
-generated assembly output for CRC32::ROM::META inner recursion:
+Generated assembly output for CRC32::ROM::META inner recursion:
 
 ![](.github/media/images/crc32__meta_in.png)
 
