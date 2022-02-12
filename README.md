@@ -1,7 +1,7 @@
 # Library 
 ## CRCs
 
-A collection of CRC algorithms. The goal is to create a small and portable library for common crcs without heavily focusing on additional programming weight.
+A collection of CRC algorithms. The goal is to create a small and portable library for CRCs without heavily focusing on additional programming weight.
 
 ## Example
 
