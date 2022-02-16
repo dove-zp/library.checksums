@@ -6,6 +6,7 @@ A collection of Checksum algorithms. The goal is to create a small and portable 
 ## Branches
 
 * [crc](https://github.com/dove-zp/library.checksums/tree/crc)
+  * 8, 16, 32, 64 
 
 ## License
 
