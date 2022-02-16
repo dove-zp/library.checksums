@@ -1,25 +1,11 @@
 # Library 
-## CRCs
+## Checksums
 
-A collection of CRC algorithms. The goal is to create a small and portable library for CRCs without heavily focusing on additional programming weight.
-
-## Low-Level Overview
-
-Generated assembly output for CRC32::ROM:
-
-![](.github/media/images/crc32__.png)
-
-Generated assembly output for CRC32::ROM::META outer recursive function:
-
-![](.github/media/images/crc32__meta_out.png)
-
-Generated assembly output for CRC32::ROM::META inner recursion:
-
-![](.github/media/images/crc32__meta_in.png)
+A collection of Checksum algorithms. The goal is to create a small and portable library for Checksums without heavily focusing on additional programming weight.
 
 ## Branches
 
-* [development](https://github.com/dove-zp/library.crcs/tree/development)
+* [crc](https://github.com/dove-zp/library.checksums/tree/crc)
 
 ## License
 
