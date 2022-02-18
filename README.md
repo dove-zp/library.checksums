@@ -3,10 +3,10 @@
 
 A collection of Checksum algorithms. The goal is to create a small and portable library for Checksums without heavily focusing on additional programming weight.
 
-## Branches
+## Algorithms
 
-* [crc](https://github.com/dove-zp/library.checksums/tree/crc)
-  * 8, 16, 32, 64 
+* [CRC](https://github.com/dove-zp/library.checksums/tree/crc)
+  * Contains: CRC8, CRC16, CRC32, CRC64
 
 ## License
 
